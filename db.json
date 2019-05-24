@@ -1,15 +1,19 @@
 {
-	"android_skus": {
-		"1": "<string>",
-		"3": "<string>",
-		"6": "<string>",
-		"12": "<string>"
+	"android": {
+		"default_skus": {
+			"1": "<string>",
+			"3": "<string>",
+			"6": "<string>",
+			"12": "<string>"
+		}
 	},
-	"ios_skus": {
-		"1": "com.sillens.iShape.1mo.discount30",
-		"3": "com.sillens.iShape.3m.discount30",
-		"6": "com.sillens.iShape.6m.discount30",
-		"12": "com.sillens.iShape.12mo.discount30"
+	"ios": {
+		"skus": {
+			"1": "com.sillens.iShape.1mo.discount30",
+			"3": "com.sillens.iShape.3m.discount30",
+			"6": "com.sillens.iShape.6m.discount30",
+			"12": "com.sillens.iShape.12mo.discount30"
+		}
 	},
 	"discount_value": "30",
 	"validUntil": "1565913600"
