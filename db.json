@@ -1,10 +1,14 @@
 {
 	"android": {
 		"default_skus": {
-			"1": "<string>",
-			"3": "<string>",
-			"6": "<string>",
-			"12": "<string>"
+			"1": "com.sillens.shapeupclub.1a.v3",
+			"3": "com.sillens.shapeupclub.3a",
+			"12": "com.sillens.shapeupclub.12a.v4"
+		},
+		"discount_skus": {
+			"1": "com.sillens.shapeupclub.1mo.30.intro",
+			"3": "com.sillens.shapeupclub.3mo.intro",
+			"12": "com.sillens.shapeupclub.12mo.intro"
 		}
 	},
 	"ios": {
